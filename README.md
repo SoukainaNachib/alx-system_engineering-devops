@@ -1,1 +1,1 @@
-Working with the Shell
+# About Bash projects
